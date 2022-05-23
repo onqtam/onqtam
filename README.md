@@ -16,6 +16,7 @@ https://www.youtube.com/watch?v=MYLu80dZqJ8), [Cpp-Summit 2017](http://bj2017.cp
 - 2016-2018: Worked on open source - [doctest](https://github.com/doctest/doctest), [rcrl](https://github.com/onqtam/rcrl), [game](https://github.com/onqtam/game)
 - 2013-2015: [Chaos](https://www.chaos.com/) - Integrating V-Ray into Maya - worked on CMake, scene translator, XGen
 - 2012-2013: [Gameloft](https://www.gameloft.com/) - Worked on gameplay/3D/UI/network/engine programming
+- older: https://github.com/onqtam/code-evolution
 
 ---
 
