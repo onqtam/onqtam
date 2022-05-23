@@ -20,7 +20,7 @@ https://www.youtube.com/watch?v=MYLu80dZqJ8), [Cpp-Summit 2017](http://bj2017.cp
 ---
 
 - **Programming languages**:
-C/C++, Nim, Python, TypeScript, JavaScript, SQL, PHP, GLSL
+C/C++, Nim, Python, TypeScript
 - **APIs, libraries & frameworks**:
 Vue.js, STL, Boost, Qt, Kafka, Protocol Buffers, LibClang, Seastar, LLVM, Bison, OpenGL, imgui, SDL
 - **Tools**:
