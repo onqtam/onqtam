@@ -2,7 +2,7 @@
 
 - [code::dive 2019: C++ as Assembly 2.0 - Hello Nim](https://www.youtube.com/watch?v=8SoJR3sCaR4) ([slides](https://slides.com/onqtam/hello_nim)), also given at [OpenFest 2019]("https://www.openfest.org/2019/bg/full-schedule-bg/#lecture-482")
 
-- [The architecture of a modern SQL engine - query compilation, optimization and executio]([https://www.youtube.com/watch?v=8SoJR3sCaR4](https://www.facebook.com/events/1821417864668886/)) ([slides]([https://slides.com/onqtam/hello_nim](https://drive.google.com/open?id=1L2msjsKHgPijs0v36CCnRlB_Uo9xdWsZ))
+- [The architecture of a modern SQL engine - query compilation, optimization and executio]([https://www.youtube.com/watch?v=8SoJR3sCaR4](https://www.facebook.com/events/1821417864668886/)) ([slides](https://drive.google.com/open?id=1L2msjsKHgPijs0v36CCnRlB_Uo9xdWsZ))
 - 
                         
                             <br><br><b>Title: <a href="https://www.facebook.com/events/1821417864668886/">The architecture of a modern SQL engine - query compilation, optimization and execution</a></b>
