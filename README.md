@@ -8,6 +8,10 @@
 - Doctest - Implementing and Using the Fastest Modern C++ Testing Framework ([slides](https://slides.com/onqtam/2017_cppcon_doctest)) - given at [CppCon 2017](https://www.youtube.com/watch?v=eH1CxEC29l8), [code::dive 2017](
 https://www.youtube.com/watch?v=MYLu80dZqJ8), [Cpp-Summit 2017](http://bj2017.cpp-summit.org/en), [CG2 2016](https://www.youtube.com/watch?v=bfA3qW3uhwg), [OpenFest 2016](https://www.youtube.com/watch?v=iw6f2pxMmLs)
 
-## Work experience
+## Work
 
-- 2012: [Gameloft]()
+
+- 2018-2019: [implemented hot code-reloading](https://github.com/nim-lang/Nim/issues/8927) for the [Nim](https://github.com/nim-lang/Nim) programming language
+- 2016-2018: worked on open source - [doctest](https://github.com/doctest/doctest), [rcrl](https://github.com/onqtam/rcrl), [game](https://github.com/onqtam/game)
+- 2013-2015: [Chaos](https://www.chaos.com/) - Integrating V-Ray into Maya - worked on CMake, scene translator, XGen
+- 2012-2013: [Gameloft](https://www.gameloft.com/) - Gameplay/3D/UI/network programming & engine structure 
