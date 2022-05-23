@@ -16,3 +16,16 @@ https://www.youtube.com/watch?v=MYLu80dZqJ8), [Cpp-Summit 2017](http://bj2017.cp
 - 2016-2018: Worked on open source - [doctest](https://github.com/doctest/doctest), [rcrl](https://github.com/onqtam/rcrl), [game](https://github.com/onqtam/game)
 - 2013-2015: [Chaos](https://www.chaos.com/) - Integrating V-Ray into Maya - worked on CMake, scene translator, XGen
 - 2012-2013: [Gameloft](https://www.gameloft.com/) - Worked on gameplay/3D/UI/network/engine programming
+
+Programming languages:
+C/C++, Nim, Python, TypeScript, JavaScript, SQL, PHP, GLSL.
+
+APIs, libraries & frameworks
+Vue.js, STL, Boost, Qt, Kafka, Protocol Buffers, LibClang, Seastar, LLVM, Bison, OpenGL, imgui, SDL.
+
+Tools
+Visual Studio, Git, CMake, build systems, compilers, Emscripten & asm.js, Clang/GCC tools (formatting, static analysis, sanitizers), Valgrind, perf, Autodesk Maya, Continuous Integration, Atlassian stack.
+
+Other
+Knowledge in blockchains, Ethereum 2.0, compiler development, algorithms, databases, distributed systems, multi-threaded programming, testing, automation, game development, graphics programming, network programming, network security.
+
