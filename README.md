@@ -17,6 +17,8 @@ https://www.youtube.com/watch?v=MYLu80dZqJ8), [Cpp-Summit 2017](http://bj2017.cp
 - 2013-2015: [Chaos](https://www.chaos.com/) - Integrating V-Ray into Maya - worked on CMake, scene translator, XGen
 - 2012-2013: [Gameloft](https://www.gameloft.com/) - Worked on gameplay/3D/UI/network/engine programming
 
+---
+
 - **Programming languages**:
 C/C++, Nim, Python, TypeScript, JavaScript, SQL, PHP, GLSL
 - **APIs, libraries & frameworks**:
