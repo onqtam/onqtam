@@ -1,7 +1,7 @@
 ## Work
 
 - 2022-2030: [Headjack](https://onqtam.github.io/headjack/) - The base layer of cyberspace - identity, interest graph & addressability in a blockchain
-- 2020: [Status](https://status.im/) - Worked on [Nimbus Eth2 (Beacon Chain)](https://github.com/status-im/nimbus-eth2)
+- 2020-2020: [Status](https://status.im/) - Worked on [Nimbus Eth2 (Beacon Chain)](https://github.com/status-im/nimbus-eth2)
 - 2019-2020: [NuoDB](https://en.wikipedia.org/wiki/NuoDB) - Reduced C++ build times by 80%, worked on per-statement memory use tracking & SQL functions
 - 2018-2019: Implemented [hot code-reloading](https://github.com/nim-lang/Nim/issues/8927) for the [Nim](https://github.com/nim-lang/Nim) programming language
 - 2016-2018: Worked on open source - [doctest](https://github.com/doctest/doctest) (C++ testing framework), [rcrl](https://github.com/onqtam/rcrl) (C++ RELP), [game](https://github.com/onqtam/game) (game engine)
