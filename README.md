@@ -10,7 +10,7 @@ https://www.youtube.com/watch?v=MYLu80dZqJ8), [Cpp-Summit](http://bj2017.cpp-sum
 
 ## Work
 
-- 2022-2030: [Headjack](https://onqtam.github.io/headjack/) - The base layer of cyberspace
+- 2022-2030: [Headjack](https://onqtam.github.io/headjack/) - The base layer of cyberspace - identity, interest graph & addressability in a blockchain
 - 2020: [Status](https://status.im/) - Worked on [Nimbus Eth2 (Beacon Chain)](https://github.com/status-im/nimbus-eth2)
 - 2019-2020: [NuoDB](https://en.wikipedia.org/wiki/NuoDB) - Reduced C++ build times by 80%, worked on per-statement memory use tracking & SQL functions
 - 2018-2019: Implemented [hot code-reloading](https://github.com/nim-lang/Nim/issues/8927) for the [Nim](https://github.com/nim-lang/Nim) programming language
