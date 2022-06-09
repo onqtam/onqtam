@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=MYLu80dZqJ8), [Cpp-Summit](http://bj2017.cpp-sum
 - 2020: [Status](https://status.im/) - Worked on [Nimbus Eth2 (Beacon Chain)](https://github.com/status-im/nimbus-eth2)
 - 2019-2020: [NuoDB](https://en.wikipedia.org/wiki/NuoDB) - Reduced C++ build times by 80%, worked on per-statement memory use tracking & SQL functions
 - 2018-2019: Implemented [hot code-reloading](https://github.com/nim-lang/Nim/issues/8927) for the [Nim](https://github.com/nim-lang/Nim) programming language
-- 2016-2018: Worked on open source - [doctest](https://github.com/doctest/doctest), [rcrl](https://github.com/onqtam/rcrl), [game](https://github.com/onqtam/game)
+- 2016-2018: Worked on open source - [doctest](https://github.com/doctest/doctest) (C++ testing framework), [rcrl](https://github.com/onqtam/rcrl) (C++ RELP), [game](https://github.com/onqtam/game) (game engine)
 - 2013-2015: [Chaos](https://www.chaos.com/) - Integrating V-Ray into Maya - worked on CMake, scene translator, XGen
 - 2012-2013: [Gameloft](https://www.gameloft.com/) - Worked on gameplay/3D/UI/network/engine programming
 - older: https://github.com/onqtam/code-evolution
