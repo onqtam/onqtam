@@ -11,7 +11,7 @@
 
 ## Talks
 
-- Headjack: Decentralized identity & content addressing at web-scale ([slides](https://docs.google.com/presentation/d/1HmZhf1hDPMpnGWa1dGpDzhFfvY8I4aCUxdLu77y98Ls)) - [code::dive 2022]([https://codedive.pl/2022/decentralized-identity-content-addressing-at-web-scale-with-a-non-financial-app-specific-blockchain](https://www.youtube.com/watch?v=pEl2vLTStWE)), [Blockchain Sofia](https://dev.bg/event/decentralized-identity-content-addressing-at-web-scale-with-an-app-specific-blockchain/)
+- Headjack: Decentralized identity & content addressing at web-scale ([slides](https://docs.google.com/presentation/d/1HmZhf1hDPMpnGWa1dGpDzhFfvY8I4aCUxdLu77y98Ls)) - [code::dive 2022](https://www.youtube.com/watch?v=pEl2vLTStWE), [Blockchain Sofia](https://dev.bg/event/decentralized-identity-content-addressing-at-web-scale-with-an-app-specific-blockchain/)
 - C++ as Assembly 2.0 - Hello Nim ([slides](https://slides.com/onqtam/hello_nim)) - [code::dive 2019](https://www.youtube.com/watch?v=8SoJR3sCaR4), [OpenFest 2019](https://www.openfest.org/2019/bg/full-schedule-bg/#lecture-482)
 - The architecture of a modern SQL engine - query compilation, optimization and execution ([slides](https://drive.google.com/open?id=1L2msjsKHgPijs0v36CCnRlB_Uo9xdWsZ)) - [C++ Sofia](https://www.facebook.com/events/1821417864668886/)
 - Nim - the first compiled language with full support for runtime hot code-reloading ([slides](https://slides.com/onqtam/nim_hot_code_reloading)) - [ACCU 2019](https://www.youtube.com/watch?v=7WgCt0Wooeo), [C++ Sofia](https://www.facebook.com/events/419768852117295/)
