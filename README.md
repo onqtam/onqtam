@@ -2,7 +2,7 @@
 
 - 2022-2030: [Headjack](https://onqtam.github.io/headjack/) - The base layer of cyberspace: decentralized identity & content addressing at web-scale
 - 2020-2020: [Status](https://status.im/) - Worked on [Nimbus Eth2 (Beacon Chain)](https://github.com/status-im/nimbus-eth2)
-- 2019-2020: [NuoDB](https://en.wikipedia.org/wiki/NuoDB) (distributed SQL database) - Reduced C++ build times by 80% & worked on per-statement memory use tracking
+- 2019-2020: [NuoDB](https://en.wikipedia.org/wiki/NuoDB) (distributed SQL database) - Reduced C++ build times by 80% & worked on [per-statement memory use tracking](https://docs.google.com/document/d/1MpNQT80c2CUAgHTymmi0F40RDnlncXgQ8o-ZUBQ1_rM/)
 - 2018-2019: Implemented [hot code-reloading](https://github.com/nim-lang/Nim/issues/8927) for the [Nim](https://github.com/nim-lang/Nim) programming language
 - 2016-2018: Worked on open source - [doctest](https://github.com/doctest/doctest) (C++ testing framework), [rcrl](https://github.com/onqtam/rcrl) (C++ RELP), [game](https://github.com/onqtam/game) (game engine)
 - 2013-2015: [Chaos](https://www.chaos.com/) - Integrating V-Ray into Maya - worked on CMake, scene translator, XGen
