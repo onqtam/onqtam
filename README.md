@@ -1,6 +1,6 @@
 ## Work
 
-- 2022-2030: [Headjack](https://onqtam.github.io/headjack/) - The base layer of cyberspace: decentralized identity & content addressing at web-scale
+- 2022-∞: [Headjack](https://onqtam.github.io/headjack/) - The base layer of cyberspace: decentralized identity & content addressing at web-scale
 - 2020-2020: [Status](https://status.im/) - Worked on [Ethereum 2 Proof of Stake client Nimbus (Beacon Chain)](https://github.com/status-im/nimbus-eth2)
 - 2019-2020: [NuoDB](https://en.wikipedia.org/wiki/NuoDB) (distributed SQL DB) - Sped up C++ builds by 80%, worked on [per-statement memory use tracking](https://docs.google.com/document/d/1MpNQT80c2CUAgHTymmi0F40RDnlncXgQ8o-ZUBQ1_rM/)
 - 2018-2019: Implemented [hot code-reloading](https://github.com/nim-lang/Nim/issues/8927) for the [Nim](https://github.com/nim-lang/Nim) programming language
